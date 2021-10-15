@@ -21,6 +21,11 @@ The file contains the ISO 4217 3-letter currency codes as the property and the p
 |decimals      | The number of decimal places for the minor unit|
 |numToBasic    | The total number of minor units in a major unit|
 
+
+# Alternative Array List
+
+The file currencyArray.js provides a shorter compact list using an array with the same parameters except for the full name. However, the full name can be made from the rest of the array data.
+
 # Notes
 
 ## Why separate demonym
