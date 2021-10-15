@@ -1,6 +1,6 @@
 # List of circulating currencies
 
-The JSON file lists all circulating currencies in the format below. Feel free to update and correct.
+The JSON file lists all circulating currencies (currently 172 currencies) in the format below. Feel free to update and correct.
 
 # JSON file description
 
@@ -13,7 +13,7 @@ The file contains the ISO 4217 3-letter currency codes as the property and the p
 |majorSingle   | The currency major unit name in singular form|
 |majorPlural   | The currency major unit name in plural form|
 |ISOnum        | The ISO 4217 number of the currency|
-|symbol        | The currency symbol in latin form as most internationally used.|
+|symbol        | The currency symbol in Latin form as most internationally used.|
 |symbolNative  | The currency symbol in native language form|
 |minorSingle   | The currency minor unit name in singular form|
 |minorPlural   | The currency minor unit name in plural form|
@@ -101,9 +101,6 @@ The value is 3 Rupees
 ```
 
 
-
-
-
 # History:
 
 15/10/2021 : Post to GitHub
@@ -115,17 +112,15 @@ The value is 3 Rupees
              EHP (Sahrawi Peseta)
              FOK (Faroese Króna)
              GGP Guernsey Pound
-             IMP	Manx Pound
-             JEP	Jersey Pound
-             KID	Kiribati Dollar
-             PND	Pitcairn Islands Dollar
-             PRB	Transnistrian Ruble
-             SLS	Somaliland Shilling
-             TVD	Tuvaluan Dollar
-             VED	Venezuelan bolívar digital
+             IMP Manx Pound
+             JEP Jersey Pound
+             KID Kiribati Dollar
+             PND Pitcairn Islands Dollar
+             PRB Transnistrian Ruble
+             SLS Somaliland Shilling
+             TVD Tuvaluan Dollar
+             VED Venezuelan bolívar digital
 
 13/10/2019 : Added separate demonym for better flexibility
 
 22/08/2019 : Initial list
-
-
