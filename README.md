@@ -1,4 +1,4 @@
-# List of circulating currencies
+# List of Circulating Currencies
 
 The JSON file lists all circulating currencies (currently 172 currencies) in the format below. Feel free to update and correct.
 
