@@ -1019,7 +1019,7 @@
 		"minorPlural": "Fils",
 		"ISOdigits": 3,
 		"decimals": 3,
-		"numToBasic": 100
+		"numToBasic": 1000
 	},
 	"JPY": {
 		"name": "Japanese Yen",
