@@ -108,6 +108,8 @@ The value is 3 Rupees
 
 # History:
 
+03/11/2021 : Minor corrected JOD numToBasic corrected from 100 to 1000
+
 15/10/2021 : Post to GitHub
 
 15/05/2020 : Added Abkhazian Apsar and Artsakh Dram
